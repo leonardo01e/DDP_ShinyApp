@@ -1,2 +1,3 @@
 # DDP_ShinyApp
-ui and server files of my Shiny App. Final Project.
+
+Ui.r and server.r files of my Shiny App. Final Project of Developing Data Products Course.
